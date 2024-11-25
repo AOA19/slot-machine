@@ -2,7 +2,7 @@
 
 This application simulates a classic slot machine game where users can place bets, spin the reels, and watch their total balance update based on the results.
 
-**Project Link:**  
+**Project Link:** https://bachelor-slot-machine.netlify.app/
 
 ## Features
 
